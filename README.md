@@ -22,11 +22,12 @@ El proceso del proyecto, a grandes rasgos se presenta a continuación, se desarr
 
 ## Descripción Técnica
 
-
-<p align="center">
-<img src="./docs/img/Hiper_vs_RGB.png" width="713">
-</p>
-
+1. Comenzamos explorando el dataset para revisar los tipos de datos qué tenemos y qué limpieza es necesaria.
+2. De los datos personales que los clientes del banco compartieron para la aprobación del crédito, hacemos gráficas para hacer un perfil promedio de los aplicantes.
+3. Ahora, realizamos el análisis del compartamiento crediticio pasado de los aplicantes.
+4. Con estos dos análisis anteriores, podemos dar un etiquetado preliminar de los datos.
+5. Hacemos un análisis estadísticos de los aplicantes para crear un perfil promedio de la gente que está pidiendo el crédito.
+6. De los modelos supervisados, vamos a utilizar Naïve Bayes, Árboles de Decisión y SVM para revisar cuál da mejores resultados en la clasificación
 
 
 
